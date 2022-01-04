@@ -10,6 +10,7 @@ The hyperparameters that changed in order to optimize the accuracy score of our 
 The hyperparameters for the basic TCN architecture were:
 
 ![image](https://user-images.githubusercontent.com/57719100/148090488-2f5164fb-44fc-4e79-93fb-0bc87178ae39.png)
+
 ![image](https://user-images.githubusercontent.com/57719100/148090541-e3e8148e-7a35-4aed-a827-a98a16c722bd.png)
 
 # Hybrid architecture
@@ -20,6 +21,7 @@ The hyperparameters that changed in order to optimize the accuracy score of our 
 The hyperparameters for the CNN + TCN architecture were:
 
 ![image](https://user-images.githubusercontent.com/57719100/148091404-ab3bfc0c-dba3-481c-bb14-2185d43bd228.png)
+
 ![image](https://user-images.githubusercontent.com/57719100/148091429-ba6f7769-b402-48d0-888f-bb77974f6d5d.png)
 
 # Results and optimal architecture
